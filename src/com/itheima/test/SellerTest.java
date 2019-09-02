@@ -18,7 +18,8 @@ public class SellerTest {
         System.out.println(decorator1.cost());
 
         int[] ints = new int[4];
-        
+
+        ArrayList<String> strings = new ArrayList<>();
 
     }
 }
